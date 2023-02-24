@@ -1,0 +1,15 @@
+/home/meraj/c#projectforuni/bin/Debug/net6.0/c#projectforuni
+/home/meraj/c#projectforuni/bin/Debug/net6.0/c#projectforuni.deps.json
+/home/meraj/c#projectforuni/bin/Debug/net6.0/c#projectforuni.runtimeconfig.json
+/home/meraj/c#projectforuni/bin/Debug/net6.0/c#projectforuni.dll
+/home/meraj/c#projectforuni/bin/Debug/net6.0/ref/c#projectforuni.dll
+/home/meraj/c#projectforuni/bin/Debug/net6.0/c#projectforuni.pdb
+/home/meraj/c#projectforuni/obj/Debug/net6.0/c#projectforuni.csproj.AssemblyReference.cache
+/home/meraj/c#projectforuni/obj/Debug/net6.0/c#projectforuni.GeneratedMSBuildEditorConfig.editorconfig
+/home/meraj/c#projectforuni/obj/Debug/net6.0/c#projectforuni.AssemblyInfoInputs.cache
+/home/meraj/c#projectforuni/obj/Debug/net6.0/c#projectforuni.AssemblyInfo.cs
+/home/meraj/c#projectforuni/obj/Debug/net6.0/c#projectforuni.csproj.CoreCompileInputs.cache
+/home/meraj/c#projectforuni/obj/Debug/net6.0/c#projectforuni.dll
+/home/meraj/c#projectforuni/obj/Debug/net6.0/ref/c#projectforuni.dll
+/home/meraj/c#projectforuni/obj/Debug/net6.0/c#projectforuni.pdb
+/home/meraj/c#projectforuni/obj/Debug/net6.0/c#projectforuni.genruntimeconfig.cache
